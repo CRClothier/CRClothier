@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crumpetchris
+- 👋 Hi, I’m @CRClothier
 - 👀 I’m interested in cheeses.
 - 🌱 I’m currently learning HTML/CSS/Javascript on the odin project
 - 💞️ I’m looking to collaborate on pair learning.
