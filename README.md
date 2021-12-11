@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @CRClothier
-- 👀 I’m interested in cheeses.
-- 🌱 I’m currently learning HTML/CSS/Javascript on the odin project
-- 💞️ I’m looking to collaborate on pair learning.
+- 👋 Hi, I’m Chris Clothier.
+- 👨🏻‍💻 I'm a Full-Stack Developer.
+- 👀 I use Javascript, Webpack, React, Ruby.
+- 🎓 Currently a student at Microverse Bootcamp, Graduating 2022.
+- 💞️ I’m looking to collaborate on projects.
+- 👷🏻 Open for opportunities.
 
 <!---
 crumpetchris/crumpetchris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
