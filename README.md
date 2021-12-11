@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Clothier.
 - 👨🏻‍💻 I'm a Full-Stack Developer.
-- 👀 I use Javascript, Webpack, React, Ruby.
+- 👀 I use Javascript, Webpack, React, Ruby & WordPress.
 - 🎓 Currently a student at Microverse Bootcamp, Graduating 2022.
 - 💞️ I’m looking to collaborate on projects.
 - 👷🏻 Open for opportunities.
