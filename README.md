@@ -10,5 +10,5 @@
   
 - 👷🏻 Open for opportunities.
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=crclothier&show_icons=true&theme=radical)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=crclothier&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crclothier&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
