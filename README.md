@@ -1,4 +1,4 @@
-# Chris Clothier || Full Stack Developer
+# Chris Clothier | Full Stack Developer
 
 - 👋 Hi, I’m Chris Clothier.
   
