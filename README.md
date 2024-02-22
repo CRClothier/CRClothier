@@ -1,4 +1,5 @@
 # Chris Clothier | Full Stack Developer
+[Portfolio](https://www.chris-clothier.com) [LinkedIn](https://www.linkedin.com/in/crclothier/)
 
 - 👋 Hi, I’m Chris Clothier.
   
@@ -15,4 +16,3 @@
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=crclothier&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crclothier&layout=compact&theme=tokyonight)
 
-[Portfolio](https://www.chris-clothier.com)
