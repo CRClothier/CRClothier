@@ -5,7 +5,7 @@
   
 - 👨🏻‍💻 I'm a Full-Stack Developer.
   
-- 👀 I use Javascript, Webpack, React, Ruby & WordPress.
+- 👀 I use JavaScript, Webpack, React, Ruby & Rails.
   
 - 🎓 Currently a student at Microverse Bootcamp, Graduating 2024.
   
