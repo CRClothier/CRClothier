@@ -1,5 +1,5 @@
-# Chris Clothier | Full Stack Developer
-[Portfolio](https://www.chris-clothier.com) [LinkedIn](https://www.linkedin.com/in/crclothier/)
+<h1 align="center">Chris Clothier | Full Stack Developer</h1>
+<p align="center">[Portfolio](https://www.chris-clothier.com) [LinkedIn](https://www.linkedin.com/in/crclothier/)</p>
 
 - 👋 Hi, I’m Chris Clothier.
   
