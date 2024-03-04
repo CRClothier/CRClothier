@@ -1,5 +1,5 @@
 <h1 align="center">Chris Clothier | Full Stack Developer</h1>
-<a align="center" href="https://www.chris-clothier.com">[Portfolio]() [LinkedIn](https://www.linkedin.com/in/crclothier/)</a>
+<p align="center"><a  href="https://www.chris-clothier.com">Portfolio</a href="https://www.linkedin.com/in/crclothier/"><a>LinkedIn</a></p>
 
 - 👋 Hi, I’m Chris Clothier.
   
