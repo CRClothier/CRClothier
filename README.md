@@ -13,8 +13,8 @@
   
 - 👷🏻 Open to opportunities.
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=crclothier&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crclothier&layout=compact&theme=tokyonight)
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=crclothier&show_icons=true&bg_color=00000000&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crclothier&icons=true&bg_color=00000000)
 
 <html>
   <h1></h1>
