@@ -9,7 +9,7 @@
   
 - 🎓 Currently a student at Microverse Bootcamp, Graduating 2024.
   
-- 🤲 I’m looking to collaborate on projects.
+- 💼 I’m looking to collaborate on projects.
   
 - 👷🏻 Open to opportunities.
 
