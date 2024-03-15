@@ -1,4 +1,4 @@
-<h1 align="center">Chris Clothier | Full Stack Developer</h1>
+<h1 align="center">| Chris Clothier | Full Stack Developer |</h1>
 <p align="center"><a  href="https://www.chris-clothier.com">Portfolio</a> <a href="https://www.linkedin.com/in/crclothier/">LinkedIn</a></p>
 
 - 👋 Hi, I’m Christopher Clothier.
