@@ -15,6 +15,3 @@
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=crclothier&show_icons=true&bg_color=00000000&line_height=25&card_width=600)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crclothier&icons=true&bg_color=00000000&card_width=600)
-<html>
-  <h1></h1>
-</html>
