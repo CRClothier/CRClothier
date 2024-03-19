@@ -7,7 +7,7 @@
   
 - 🕸️ I use JavaScript, Webpack, React & Redux, Ruby & Rails.
   
-- 🎓 Currently a student at Microverse Bootcamp.
+- 🎓 Graduted from [Microverse Bootcamp](https://www.microverse.org).
   
 - 💼 I’m looking to collaborate on projects.
   
