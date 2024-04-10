@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Chris Clothier.
   
-- 👨🏻‍💻 I'm a Full Stack Developer.
+- 👨🏻‍💻 I'm a Full-Stack Developer.
   
 - 🕸️ I use JavaScript, Webpack, React & Redux, Ruby & Rails.
   
