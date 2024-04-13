@@ -5,7 +5,7 @@
   
 - 👨🏻‍💻 I'm a Full-Stack Developer.
   
-- 🕸️ I use JavaScript, Webpack, React & Redux, Ruby & Rails.
+- 🕸️ I use JavaScript, Webpack, React & Redux, Ruby & Rails..
   
 - 🎓 Gradute from [Microverse Bootcamp](https://www.microverse.org).
   
